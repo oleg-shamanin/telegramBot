@@ -7,7 +7,7 @@
 #include <QListWidgetItem>
 #include <QVariant>
 
-#include <networkmanager.h>
+#include "networkmanager.h"
 
 namespace Ui {
 class MainWindow;
